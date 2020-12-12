@@ -1,0 +1,19 @@
+﻿  Source.cpp
+C:\Users\admin\Desktop\Project1\Project2\Source.cpp(77,7): warning C4101: long_var: неиспользованная локальная переменная
+C:\Users\admin\Desktop\Project1\Project2\Source.cpp(76,6): warning C4101: int_var: неиспользованная локальная переменная
+C:\Users\admin\Desktop\Project1\Project2\Source.cpp(86,16): warning C4101: char_var: неиспользованная локальная переменная
+C:\Users\admin\Desktop\Project1\Project2\Source.cpp(78,11): warning C4101: li_var: неиспользованная локальная переменная
+C:\Users\admin\Desktop\Project1\Project2\Source.cpp(105,7): warning C4101: chr_var: неиспользованная локальная переменная
+C:\Users\admin\Desktop\Project1\Project2\Source.cpp(96,8): warning C4101: float_var: неиспользованная локальная переменная
+C:\Users\admin\Desktop\Project1\Project2\Source.cpp(89,16): warning C4101: ulong_var: неиспользованная локальная переменная
+C:\Users\admin\Desktop\Project1\Project2\Source.cpp(74,7): warning C4101: uchar_var: неиспользованная локальная переменная
+C:\Users\admin\Desktop\Project1\Project2\Source.cpp(97,9): warning C4101: dbl_var: неиспользованная локальная переменная
+C:\Users\admin\Desktop\Project1\Project2\Source.cpp(90,20): warning C4101: uuli_var: неиспользованная локальная переменная
+C:\Users\admin\Desktop\Project1\Project2\Source.cpp(87,17): warning C4101: ushort_var: неиспользованная локальная переменная
+C:\Users\admin\Desktop\Project1\Project2\Source.cpp(79,12): warning C4101: uli_var: неиспользованная локальная переменная
+C:\Users\admin\Desktop\Project1\Project2\Source.cpp(93,8): warning C4101: uuuli_var: неиспользованная локальная переменная
+C:\Users\admin\Desktop\Project1\Project2\Source.cpp(88,15): warning C4101: uint_var: неиспользованная локальная переменная
+C:\Users\admin\Desktop\Project1\Project2\Source.cpp(108,10): warning C4101: wchr_var: неиспользованная локальная переменная
+C:\Users\admin\Desktop\Project1\Project2\Source.cpp(75,8): warning C4101: short_var: неиспользованная локальная переменная
+C:\Users\admin\Desktop\Project1\Project2\Source.cpp(101,7): warning C4101: bool_var: неиспользованная локальная переменная
+  Project2.vcxproj -> C:\Users\admin\Desktop\Project1\x64\Debug\Project2.exe

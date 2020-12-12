@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\admin\Desktop\Project1\Project4\Source.cpp(18,38): error C2440: инициализация: невозможно преобразовать "double [15]" в "size_t"
+C:\Users\admin\Desktop\Project1\Project4\Source.cpp(18,35): message : Не существует контекста, в котором такое преобразование возможно
+C:\Users\admin\Desktop\Project1\Project4\Source.cpp(28,38): error C2440: инициализация: невозможно преобразовать "double [3][3]" в "size_t"
+C:\Users\admin\Desktop\Project1\Project4\Source.cpp(28,35): message : Не существует контекста, в котором такое преобразование возможно
